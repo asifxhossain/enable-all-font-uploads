@@ -16,9 +16,7 @@ Allows uploading restricted font files (WOFF, WOFF2, TTF, OTF) to the WordPress 
 
 ## Description
 
-Enable All Font Uploads is a simple WordPress plugin that allows you to upload font files (WOFF, WOFF2, TTF, OTF) to your WordPress media library.  
-By default, WordPress restricts these file types for security reasons.  
-This plugin provides a safe way to enable font uploads when needed.
+Enable All Font Uploads is a simple WordPress plugin that allows you to upload font files (WOFF, WOFF2, TTF, OTF) to your WordPress media library. By default, WordPress restricts these file types for security reasons. This plugin provides a safe way to enable font uploads when needed.
 
 ### Features
 - Enable/disable font uploads with a simple toggle switch  
